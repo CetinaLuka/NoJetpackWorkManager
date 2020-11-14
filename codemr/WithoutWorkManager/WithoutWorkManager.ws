@@ -1,0 +1,1 @@
+{"app":{"name":"app","packages":{"com.i.withoutworkmanager":{"packageName":"com.i.withoutworkmanager","isAll":false,"classes":["Lcom.i.withoutworkmanager.BlurService","Lcom.i.withoutworkmanager.UtilsKt","Lcom.i.withoutworkmanager.BlurService.MyLocalBinder","Lcom.i.withoutworkmanager.MainActivity"]}}}}
